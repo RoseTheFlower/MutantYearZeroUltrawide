@@ -10,4 +10,6 @@ All trainers based on CE components may trigger some anti-virus software.
 
 Tested on the latest Epic Games Store version at 2560x1080, 1920x1080 and 5760x1080.
 
+You can buy me a [coffee](https://ko-fi.com/rozziroxx) or become a [patron](https://www.patreon.com/rozzi).
+
 ![](preview.jpg)
